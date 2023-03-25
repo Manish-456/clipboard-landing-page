@@ -309,7 +309,15 @@ footer{
     .partners img{
         width : 78px
     }
-
+    .access p{
+        width: 100%;
+      
+    }
+    main .track p {
+        padding: 0 auto;
+       width: 100%;
+       margin: auto;
+       }
     .footer-lists img{
      width: 7%;
     }
@@ -340,6 +348,7 @@ footer{
     .features .feature-lists .feature-list p{
         text-align: center;
     }
+
     .services {
        
         gap: 40px;
@@ -348,11 +357,7 @@ footer{
     .partners{
         gap: 25px;
     }
-    main .track p {
-        padding: 0 auto;
-       width: 100%;
-       margin: auto;
-       }
+
   .features img{
  width: 100%;
   }
